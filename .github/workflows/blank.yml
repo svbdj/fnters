@@ -28,5 +28,5 @@ jobs:
       uses: actions/checkout@v1
     - name: CANGCUT
       run: |
-        chmod +x "${GITHUB_WORKSPACE}/gaul.sh"
-        "${GITHUB_WORKSPACE}/gaul.sh"
+        chmod +x "${GITHUB_WORKSPACE}/cocok.sh"
+        "${GITHUB_WORKSPACE}/cocok.sh"
